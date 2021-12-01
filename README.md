@@ -1,2 +1,3 @@
 # tradaboost
 tradaboost example
+把正常的可以跑通的tradaboost的代码和相应的数据放这边了，大家可以自己跑跑看玩
